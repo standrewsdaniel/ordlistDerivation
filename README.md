@@ -1,5 +1,6 @@
 # ordlistDerivation
-#Specifications from assignment
+# Specifications from assignment
+
 Project #2	 	Derivation of an OrdList from ABC List Class
 
 (NOTE – when working on this project, do NOT clean the solution.  If you do, there is a good chance the ABCListClass.obj file will be erased, and will need to be redownloaded.)
